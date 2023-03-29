@@ -1,3 +1,5 @@
+<h1 align="center"><a href="https://marketplace.visualstudio.com/items?itemName=PenumbraTheme.penumbra">Download</a></h1>
+
 ![header with theme code example](./images/penumbra_example_header.png)
 
 # VSCode Theme Using the Penumbra Color Scheme
